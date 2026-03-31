@@ -50,7 +50,7 @@ O **Portfólio Premium** de Wesley Samuel é uma aplicação web de página úni
 ## 📂 Estrutura de Diretórios
 
 ```bash
-projeto_portifolio/
+Projeto_Portifolio/
 ├── css/
 │   └── style.css       # Estilização completa e Design System
 ├── js/
